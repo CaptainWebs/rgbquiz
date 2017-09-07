@@ -1,1 +1,2 @@
 # rgbquiz
+The intention is to get more familiar with the rgb color combination. Each section of the game present the 6 different colors and one color out of that collection is the correct answer. Player can switch between Easy and Hard mode which decreases the number of colors to only 3. If the player is not happy with the presented colors, he can press New Colors and get 6 new and different colors. The project is built using HTML/CSS and JavaScript.
